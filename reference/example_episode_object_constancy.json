@@ -1,0 +1,62 @@
+{
+ "slug": "object-constancy",
+ "title": "客体恒常性",
+ "en": "OBJECT CONSTANCY",
+ "theme": "aurora",
+ "cover": {
+  "line": "m3",
+  "offset": 2.2,
+  "focusY": 465,
+  "sub": "TA没回消息的时候，你在想什么？"
+ },
+ "chapters": [
+  {
+   "scene": "chat",
+   "title": "未回复的消息",
+   "intro": "TA说「我先睡了」之后"
+  },
+  {
+   "scene": "piaget",
+   "title": "躲猫猫",
+   "intro": "为什么婴儿觉得你会凭空消失？",
+   "en": "PEEKABOO"
+  },
+  {
+   "scene": "love",
+   "title": "爱的恒常",
+   "intro": "TA不在的时候，爱还在吗？",
+   "en": "EMOTIONAL CONSTANCY"
+  },
+  {
+   "scene": "reveal",
+   "title": "视线之外",
+   "intro": "那条没回的消息背后，发生了什么？",
+   "en": "OUT OF SIGHT"
+  },
+  {
+   "scene": "moon",
+   "title": "白天的月亮",
+   "intro": "看不见的东西，怎么相信它还在？",
+   "en": "THE DAYTIME MOON"
+  }
+ ],
+ "publish": {
+  "titles": [
+   "TA三小时没回消息，你是不是已经脑补完一整场分手了？",
+   "为什么TA一不回消息，你就觉得TA不爱你了？",
+   "婴儿以为你捂上脸就消失了——很多成年人谈恋爱也是"
+  ],
+  "caption": "晚上十一点，TA说「我先睡了」。第二天中午，消息还是未读。\n心理学里有个词，叫「客体恒常性」：看不见，也知道它还在。\n你是会安心等，还是会忍不住多想的那种人？",
+  "hashtags": [
+   "心理学",
+   "客体恒常性",
+   "恋爱心理",
+   "亲密关系",
+   "依恋",
+   "psychology",
+   "objectconstancy",
+   "Pain心理学"
+  ],
+  "pinned": "TA多久没回消息，你会开始不安？评论区说说你的「安全时长」👇"
+ }
+}

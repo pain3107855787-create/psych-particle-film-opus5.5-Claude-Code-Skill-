@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+node_modules/
+tools/_gallery.html
+tools/_fx.html
+.DS_Store
+Thumbs.db

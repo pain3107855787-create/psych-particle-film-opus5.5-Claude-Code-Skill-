@@ -1,0 +1,40 @@
+{
+ "slug": "example",
+ "title": "示例概念",
+ "en": "EXAMPLE CONCEPT",
+ "theme": "aurora",
+ "cover": {
+  "line": "a2",
+  "offset": 1.8,
+  "focusY": 465,
+  "sub": "一句勾人的副标题？"
+ },
+ "chapters": [
+  {
+   "scene": "intro",
+   "title": "序",
+   "intro": "开场不放章节卡（card 默认 false），直接进故事"
+  },
+  {
+   "scene": "main",
+   "title": "第一章标题",
+   "intro": "一句话小简介，最好是个问题？",
+   "en": "CHAPTER SUBTITLE"
+  }
+ ],
+ "publish": {
+  "titles": [
+   "首句备选 1（抓人的问题或反常识结论）",
+   "首句备选 2",
+   "首句备选 3"
+  ],
+  "caption": "2~4 个短句，口语化，结尾抛一个问题。",
+  "hashtags": [
+   "心理学",
+   "psychology",
+   "系列标签"
+  ],
+  "pinned": "置顶评论：一个让人想回答的问题"
+ },
+ "noMusic": true
+}
